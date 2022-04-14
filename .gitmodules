@@ -1,0 +1,4 @@
+[submodule "emqx"]
+	path = emqx
+	url = git@github.com:wavemoroc001/emqx.git
+	branch = master
