@@ -2,3 +2,7 @@
 	path = emqx
 	url = git@github.com:wavemoroc001/emqx.git
 	branch = master
+[submodule "tig-stack"]
+	path = tig-stack
+	url = git@github.com:wavemoroc001/tig-stack.git
+	branch = master
